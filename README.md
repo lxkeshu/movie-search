@@ -94,21 +94,22 @@ A modern, responsive movie search application built with React and Material-UI t
 - **The Movie Database (TMDB)** - Movie data and images
 - **YouTube Data API** - Movie trailer integration
 
+## 📱 Screenshots
+
 ### Home Page
-![Home Page](screenshots/home.png)
-*Popular movies carousel and search functionality*
+![Home Page Screenshot](screenshots/home.png)
+
+### Search
+![Search Screenshot](screenshots/search.png)
 
 ### Movie Details
-![Movie Details](screenshots/movie-details.png)
-*Comprehensive movie information with backdrop*
+![Movie Details Screenshot](screenshots/movie-details.png)
 
-### Cast & Crew
-![Cast & Crew](screenshots/cast.png)
-*Interactive cast carousel with navigation*
+### Cast
+![Cast Screenshot](screenshots/cast.png)
 
-### Search Results
-![Search Results](screenshots/search.png)
-*Real-time movie search results*
+### Reviews
+![Reviews Screenshot](screenshots/reviews.png)
 
 ## 🎯 Key Features Explained
 
