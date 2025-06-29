@@ -4,7 +4,6 @@ A modern, responsive movie search application built with React and Material-UI t
 
 ![Movie Search](https://img.shields.io/badge/React-18.2.0-blue)
 ![Material-UI](https://img.shields.io/badge/Material--UI-7.1.2-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
 
