@@ -111,32 +111,6 @@ A modern, responsive movie search application built with React and Material-UI t
 ### Reviews
 ![Reviews Screenshot](screenshots/reviews.png)
 
-## 🎯 Key Features Explained
-
-### Responsive Design
-The application is built with a mobile-first approach, ensuring optimal viewing experience across all devices:
-- **Mobile**: Single column layout with touch-friendly interactions
-- **Tablet**: Two-column layout for better space utilization
-- **Desktop**: Multi-column layout with enhanced navigation
-
-### Movie Search
-- **Real-time search** with 500ms debounce
-- **Filtered results** showing only complete movie information
-- **Upcoming movies** as default when no search query
-- **Responsive grid** layout for search results
-
-### Cast Carousel
-- **Single cast view** on mobile for better focus
-- **Multiple cast view** on larger screens for efficiency
-- **Smooth navigation** with custom arrow buttons
-- **Responsive sizing** adapting to screen size
-
-### Movie Details
-- **Hero section** with movie backdrop
-- **Comprehensive information** including ratings, runtime, genres
-- **Cast & crew** section with interactive carousel
-- **Movie trailers** with YouTube integration
-- **User reviews** with detailed review cards
 
 ## 🔧 Available Scripts
 
@@ -178,45 +152,6 @@ movie-search/
 ├── package.json
 └── README.md
 ```
-
-## 🎨 Design System
-
-### Color Palette
-- **Primary**: `#f5c518` (IMDB Yellow)
-- **Background**: `#1a1a1a` to `#2d2d2d` (Dark gradient)
-- **Text**: `#ffffff` (White)
-- **Secondary**: `#ffd700` (Gold accent)
-
-### Typography
-- **Headings**: Bold weights with gradient text effects
-- **Body**: Clean, readable fonts with proper line heights
-- **Responsive**: Font sizes adapt to screen size
-
-### Components
-- **Cards**: Elevated with hover animations
-- **Buttons**: Material-UI styled with custom theming
-- **Carousels**: Touch-friendly with custom navigation
-- **Loading**: Skeleton loaders for better UX
-
-## 🌟 Features in Detail
-
-### Search Functionality
-- **Debounced search** prevents excessive API calls
-- **Filtered results** ensure only complete movie data is shown
-- **Loading states** provide user feedback
-- **Error handling** for failed searches
-
-### Movie Cards
-- **Hover animations** with lift effect
-- **Play overlay** on hover
-- **Gradient overlays** for text readability
-- **Responsive sizing** for all screen sizes
-
-### Navigation
-- **Sticky header** for easy navigation
-- **Responsive menu** with icons on mobile
-- **Active states** for current page indication
-- **Smooth transitions** between pages
 
 ## 🤝 Contributing
 
