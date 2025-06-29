@@ -1,0 +1,16 @@
+.movie-list {
+        color: black;
+}
+.list-title{
+        font-size: 3rem;
+        margin: 3rem;
+}
+
+.list-cards {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        /* height: 500px; */
+        /* width: 100px; */
+}
